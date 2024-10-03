@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>The Stars Align - Planetarium Notification</name>
+    <directory>the stars align</directory>
+    <id>3297124416</id>
+    <description>[h1] How it works: [/h1]
+
+When entering a new floor during a game, you will get the message &quot;The stars align...&quot; if a planetarium spawned in the floor
+
+This mod not working in mod that add Planetarium in Greed Mode, the mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2748584047&amp;amp;searchtext=planetarium] [REP] Planetariums in Greed Mode [/url] has already include this function
+</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+</metadata>
