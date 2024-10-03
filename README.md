@@ -1,4 +1,4 @@
-# The Stars Align 
+# The Stars Align - Planetarium Notification
 
 
 When entering a new floor during a game, you will get the message &quot;<b><i>The stars align...</b></i>&quot; if a planetarium spawned in the floor
